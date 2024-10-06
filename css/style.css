@@ -926,11 +926,11 @@ span.padding_right0 {
 }
 
 input.mail_text::placeholder {
-  color: #c5c8c7;
+  color: #2d2f2e;
 }
 
 .massage-bt {
-  color: #c5c8c7;
+  color: #bfc4c4;
   width: 100%;
   height: 110px;
   font-size: 18px;
@@ -941,19 +941,21 @@ input.mail_text::placeholder {
 }
 
 textarea#comment.massage-bt::placeholder {
-  color: #c5c8c7;
+  color: #363737;
 }
 
 .send_bt {
-  width: 170px;
+  width: 100px;
+  height: 50px;
   float: left;
+  background-color: #dcd7e7;
 }
 
 .send_bt a {
   width: 100%;
   text-align: center;
   font-size: 16px;
-  color: #fefefd;
+  color: #eceaf7;
   background-color: #641df5;
   padding: 12px;
   text-transform: uppercase;
@@ -963,7 +965,7 @@ textarea#comment.massage-bt::placeholder {
 }
 
 .send_bt a:hover {
-  color: #fefefd;
+  color: #ecf3f3;
   background-color: #f70e19;
 }
 
